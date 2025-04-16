@@ -11,7 +11,9 @@ Phishing attacks are growing threats in cybersecurity. This project uses supervi
 - Website forwarding and redirects
 - Google indexing, page rank, and more
 
-- Models Implemented
+ 
+ 
+ Models Implemented
 - Logistic Regression
 - Decision Tree
 - Random Forest Classifier
